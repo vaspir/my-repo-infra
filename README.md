@@ -1,1 +1,1 @@
-This repository for infra on language terraform 
+This repository for infra on language terraform was created by vasili-spirydzionak
